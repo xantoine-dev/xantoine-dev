@@ -18,7 +18,7 @@ Feel free to check out my pinned repositories below for more examples of my work
 ## 📬 Get in Touch
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/xantoine-dev)  
-- ✉️ Email: your-email@example.com
+ - 💍 Email: xantoine.dev@proton.me
 
 I'm always open to collaboration and new opportunities. If you have an interesting project or just want to chat about developer experience, feel free to reach out!
 
