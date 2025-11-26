@@ -1,10 +1,10 @@
-# 👋 Hello there!
+# Hello there!
 
 I'm Xavier, a software engineer based in Rancho Santa Margarita, California with a passion for building accessible user interfaces, automation tools, and data‑driven applications. I care deeply about delivering high-quality software and improving developer experience over time.
 
 In my free time you'll often find me learning new technologies, contributing to open source projects, or tinkering with hardware projects. I believe in open knowledge and strive to write clean, well-documented code that's a pleasure to work with.
 
-## 🔥 Highlighted Projects
+## Highlighted Projects
 
 Here are a few projects I'm particularly proud of. They demonstrate a variety of technical skills including front‑end component design, data automation, and desktop application development.
 
@@ -13,15 +13,10 @@ Here are a few projects I'm particularly proud of. They demonstrate a variety of
 - **yt_transcript_gui** – A cross‑platform desktop app that lets you download and organize YouTube transcripts. Built with Electron and powered by the youtube‑transcript‑api, it supports multiple export formats and robust tagging.
 - **Personal Website** – A personal portfolio built with HTML/CSS/JS showcasing projects and blog posts. [GitHub](https://github.com/xantoine-dev/xantoine-dev.github.io)
 
-Feel free to check out my pinned repositories below for more examples of my work.
+Feel free to check out my pinned repositories for more examples of my work.
 
 ## 📬 Get in Touch
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/xantoine-dev)  
- - 💍 Email: xantoine.dev@proton.me
+ - Email: xantoine.dev@proton.me
 
 I'm always open to collaboration and new opportunities. If you have an interesting project or just want to chat about developer experience, feel free to reach out!
-
----
-
-<sup>Icons and badges are from simple‑icons and shields.io. This profile README was generated with ❤️ and a bit of markdown wizardry.</sup>
