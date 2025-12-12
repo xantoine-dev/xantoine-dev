@@ -1,6 +1,6 @@
 # Hello there!
 
-I'm Xavier, a software engineer based in Rancho Santa Margarita, California with a passion for building accessible user interfaces, automation tools, and data‑driven applications. I care deeply about delivering high-quality software and improving developer experience over time.
+I'm Xavier, a software engineer based in San Clemente, California with a passion for building accessible user interfaces, automation tools, and data‑driven applications. I care deeply about delivering high-quality software and improving developer experience over time.
 
 In my free time you'll often find me learning new technologies, contributing to open source projects, or tinkering with hardware projects. I believe in open knowledge and strive to write clean, well-documented code that's a pleasure to work with.
 
